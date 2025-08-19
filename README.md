@@ -9,15 +9,15 @@ This document proposes **Project COMPASS**, an end-to-end analytics solution bui
 ## Business Problem
 As InnovateTech scales, our reliance on decentralized spreadsheets and manual processes for managing employee compensation has become a critical bottleneck. The key challenges are:
 
-- Inconsistency: Salary offers vary significantly between managers and locations for identical roles, creating internal pay disparities and employee dissatisfaction.
+- **Inconsistency:** Salary offers vary significantly between managers and locations for identical roles, creating internal pay disparities and employee dissatisfaction.
 
-- Pay Equity Risk: Without a systematic framework to analyze compensation across demographics, the company is exposed to significant legal and reputational risks associated with pay equity.
+- **Pay Equity Risk:** Without a systematic framework to analyze compensation across demographics, the company is exposed to significant legal and reputational risks associated with pay equity.
 
-- Lack of Competitiveness: We struggle to benchmark our salaries against real-time market rates, leading to lost candidates and the potential attrition of key employees seeking better compensation.
+- **Lack of Competitiveness:** We struggle to benchmark our salaries against real-time market rates, leading to lost candidates and the potential attrition of key employees seeking better compensation.
 
-- Opaque Bonus Allocation: The process for determining annual bonuses is not tied to performance data, making it difficult to justify payouts and motivate employees effectively.
+- **Opaque Bonus Allocation:** The process for determining annual bonuses is not tied to performance data, making it difficult to justify payouts and motivate employees effectively.
 
-- No Central Oversight: Executive leadership lacks a unified dashboard to view critical compensation metrics, headcount distribution, and salary trends, hindering strategic workforce planning.
+- **No Central Oversight:** Executive leadership lacks a unified dashboard to view critical compensation metrics, headcount distribution, and salary trends, hindering strategic workforce planning.
 
 ## Proposed Solutions
 Project COMPASS will address these challenges by architecting and deploying a cloud-native analytics solution. The project will leverage a synthetically generated but realistic employee dataset to build, test, and deploy a full suite of tools.
