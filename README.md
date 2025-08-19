@@ -100,8 +100,6 @@ The solution is comprised of five integrated components:
 
 - Developed a sophisticated, multi-chart interactive dashboard with robust state management and performance optimizations.
 
-- Successfully containerized and deployed the final application as a scalable web service on Google Cloud Run.
-
 
 
 
